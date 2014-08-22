@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>56A44044-24A5-41F9-9FD3-9FDAEDCBF49B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Lifter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B095B6B7-F2FC-46D0-887D-0C3720DA010C</key>
+		<string>https://github.com/pbush25/lifter_app</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Lifter/Lifter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B095B6B7-F2FC-46D0-887D-0C3720DA010C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pbush25/lifter_app</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B095B6B7-F2FC-46D0-887D-0C3720DA010C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B095B6B7-F2FC-46D0-887D-0C3720DA010C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lifter_app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
